@@ -1,0 +1,19 @@
+{
+  "name": "react-mobile-cityselect",
+  "version": "1.0.0",
+  "description": "移动端城市筛选",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heruiruihe/citySelect.git"
+  },
+  "author": "heruirui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heruiruihe/citySelect/issues"
+  },
+  "homepage": "https://github.com/heruiruihe/citySelect#readme"
+}
